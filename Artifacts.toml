@@ -1,0 +1,252 @@
+[[louvain]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3609df12e921bf9dc8066aea55dc9655827a1ab8"
+libc = "glibc"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "dc70c7dc1355f3a2ebce181634d5ac5d926502fcd8cdcb0324476218c8bb0b71"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[louvain]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0429d75b998f3eca1e405aa2fa71299fd44cea35"
+libc = "glibc"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "9de525068ed45b6f452c5489fa852276f34815f81dfdfbfbf81ef6a15852fac3"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[louvain]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "120e9b5eef4dbdc76117475b0ba0ad26c3e3acf1"
+libc = "musl"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "66df56c002036048f02edf876e6a24599f90d1a5aa025f01060644263f2560ad"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[louvain]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ec9bc5edbd9ada847879b20f25bc619196bcf81"
+libc = "musl"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "f68a3ea4a8216315405041891dd0fdda025b1097203b0a77e1122aaa46f4b196"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[louvain]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "190a938d4bdf86a35c60d6caea9d449c92774e29"
+libc = "glibc"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "a033e32e27631639ffc36f79152c3831354a721023e2b6841f028ba121f5bf44"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[louvain]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f772e24fe52eee902f7f32895f626d3c8a02954e"
+libc = "glibc"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "cc42f7b28d3af95e4436ff162f34a7cea4f773db5f36f0a017ccc7993b092b62"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[louvain]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c456c419a87f628ffa3f85ebbc4c52ec75a60f30"
+libc = "musl"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "b320210ce1295ab23b1a68be43b9825e68a8e8c71d1e73a718ee93e46abe74be"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[louvain]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc2dbf65652dd54cf87442a0e6f7f7b96221ab72"
+libc = "musl"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "1fa015f331b4196882e81e6a50a6083b3d1b4b465294a0016c086a676cbb5b50"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[louvain]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dc776a24002cfea2d773f32dbc88a7218c3b78a8"
+libc = "glibc"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "a0fe9132de6a791940e407c0306983632fb1c86f23a48277ce6d368d114eaa79"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[louvain]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9700527aa6afe2524eedec41c4696af62df565dc"
+libc = "glibc"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "5c0cf6e07db5019f0aba8ee61453dbeb25411fb121c5e144faa7b0c7f0e849de"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[louvain]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5fdd83683ca8efbaddd7a516cd0e7f04c6219eb4"
+libc = "musl"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "5b0f4af5d5f411782600cf8e2c83c70229ed2b49d9891fd378df659ade31b150"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[louvain]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18c5911a6b7df9372bfba30784f0e4b4aab30657"
+libc = "musl"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "13f5fe51c765cbc3474174b6e5dfe251d8265544fcb6fdee921baaf3f7af92b0"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[louvain]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ed33b7419e7c3a4e9db8bd4b6888288c563ba4a8"
+os = "windows"
+
+    [[louvain.download]]
+    sha256 = "da35c5921146572c73a6b26543a78e015461b71bcf3260da7b9992c2c9aff9f4"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[louvain]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aa8289eb23a3247d144974e026bb25d1fa7cd99d"
+os = "windows"
+
+    [[louvain.download]]
+    sha256 = "5d2397929b3176538bb4ff8ac974123fc54cb0817c0090a35c4f66f134fef0aa"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[louvain]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7044c3e505ed39c153c33943af5a544e59bda0e4"
+libc = "glibc"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "055a59dabb32c4d84977d8d92d533c459c766275e3c2ee683511f6c09e8d2294"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[louvain]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0b2c4e9b1fc04e342a999717f47e8ba668befd7b"
+libc = "glibc"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "47da710eb8d9a58890d12507503d201aea6d03755eb66025261e48660b5dbe95"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[louvain]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4653a752c12b179f8d6d40514678880219d1e29d"
+os = "macos"
+
+    [[louvain.download]]
+    sha256 = "4a34439d286767fa0620bd7304b81dd1e0dc52d3bd8ca360b76651bc3f3b9401"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.x86_64-apple-darwin14-cxx03.tar.gz"
+[[louvain]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f14c36ac4a47129c0f871a2a076f8aea9747be37"
+os = "macos"
+
+    [[louvain.download]]
+    sha256 = "44e13ca039c9bbc4bb1ad7081ce355cee67a12dea87c338df16c8f7c12749204"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.x86_64-apple-darwin14-cxx11.tar.gz"
+[[louvain]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c7eed727ee5141bacc874df14025a4e04645241a"
+libc = "glibc"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "5ea68c7a8916fbd0c26f7ca105d9e654a1f285b1dd0bc7bc772d355c9e5cefec"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[louvain]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "db986a4f7a8f3916f2e515148cbdc10b5ff53369"
+libc = "glibc"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "246bbc22e632535055ca5c83a3c4110de7f4213d659b15af6d05de7ebcea6d26"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[louvain]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7db4bd1650e3faa41120af29a53239ac55c4241f"
+libc = "musl"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "e9166b98a50d4c85ddeaef298c51a06fcef4059f15f9bfb88e7a1ad6d533159c"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[louvain]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "383cbf4bb12e605413c862c644a84d3e6fea73b5"
+libc = "musl"
+os = "linux"
+
+    [[louvain.download]]
+    sha256 = "06dc0e5e65bbb5d602a559f3037b3726101a9543a121de83855b6b8b2166d321"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[louvain]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e5dcc682b351e35b8878369a92f4c3456c4b1e3a"
+os = "freebsd"
+
+    [[louvain.download]]
+    sha256 = "ac7ec007c5897479be1f7c715531f862b89cf87b60ed4fd8b3ca1ad7e1dda6b7"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[louvain]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "193c6202a7226274b2ac141b30f2a70b962556d9"
+os = "freebsd"
+
+    [[louvain.download]]
+    sha256 = "61e2ae618c95fc864387d881f55c0d35e88397cbbdc92dd800fec18a400ba926"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[louvain]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ac2ed06360a412ba499eaf35918c60991f831052"
+os = "windows"
+
+    [[louvain.download]]
+    sha256 = "0c8e2171252bf507c499148fb1cfcd045af18187e4df889f1242b823e5eb6efa"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[louvain]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "85c6a14d6c073463ea1a5f842b229defca017926"
+os = "windows"
+
+    [[louvain.download]]
+    sha256 = "41895c999bcff44e3aa2df2acf3240bbd8ab5695d2604fa4567a95c9a2d14cba"
+    url = "https://github.com/JuliaBinaryWrappers/louvain_jll.jl/releases/download/louvain-v0.1.0+0/louvain.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
